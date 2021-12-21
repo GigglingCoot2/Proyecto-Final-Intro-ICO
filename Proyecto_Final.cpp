@@ -1,6 +1,8 @@
 #include <iostream>
 #include <stdio.h>
 #include "FResta.h"
+#include "Suma.h"
+
 int main()
 {
     printf("\t\t ==Proyecto Final de Introduccion a ICO==\n");
